@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: runner.HomePage6Runner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.56 s -- in runner.HomePage6Runner
